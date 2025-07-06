@@ -15,3 +15,13 @@
 ![Diagram - Traversy Media](https://github.com/user-attachments/assets/4e409950-22ae-4ade-9494-e95757e35b57)
 
 
+## Libraries and Other Methods
+
+- jQuery
+- Axios
+- Superagent
+- Fetch API
+- Prototype
+- Node HTTP
+
+
